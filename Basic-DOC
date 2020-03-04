@@ -1,0 +1,1 @@
+Whoever is going to modify the main.blend file, has to first make a copy of the main.blend. rename it to version-x-(the version number). And when work on it is done, they are going to give a pull request to the repo. before starting to work we all must pull all the changes from the main repo to our computers. 
