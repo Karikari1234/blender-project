@@ -1,0 +1,11 @@
+Name: wooden mirror
+Version: 2014
+Preview: Yes
+Units: Centimeters
+Dimension: 99.79cm x 5.38cm x 179.88cm
+Polys: 1,058
+Verts: 1,068
+XForm: yes
+Model Parts: 2
+Render: vray
+Formats: 3Ds Max 2014, OBJ, FBX
